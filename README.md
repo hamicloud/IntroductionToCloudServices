@@ -35,3 +35,4 @@ Contact US
 Emial:0hamicloud@gmail.com
 WeChat: hamiyun4680
 WhatsApp: +852 6143 1713
+web:https://30cloud.com/
